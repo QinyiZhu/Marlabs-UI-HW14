@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Marlabs-UI-HW14/static/css/main.5cc69460.chunk.css",
+    "main.js": "/Marlabs-UI-HW14/static/js/main.f6378ea9.chunk.js",
+    "main.js.map": "/Marlabs-UI-HW14/static/js/main.f6378ea9.chunk.js.map",
+    "runtime-main.js": "/Marlabs-UI-HW14/static/js/runtime-main.62f53f41.js",
+    "runtime-main.js.map": "/Marlabs-UI-HW14/static/js/runtime-main.62f53f41.js.map",
+    "static/js/2.f45d9cb4.chunk.js": "/Marlabs-UI-HW14/static/js/2.f45d9cb4.chunk.js",
+    "static/js/2.f45d9cb4.chunk.js.map": "/Marlabs-UI-HW14/static/js/2.f45d9cb4.chunk.js.map",
+    "index.html": "/Marlabs-UI-HW14/index.html",
+    "precache-manifest.01445f006fe57bf6351111a1e17975a7.js": "/Marlabs-UI-HW14/precache-manifest.01445f006fe57bf6351111a1e17975a7.js",
+    "service-worker.js": "/Marlabs-UI-HW14/service-worker.js",
+    "static/css/main.5cc69460.chunk.css.map": "/Marlabs-UI-HW14/static/css/main.5cc69460.chunk.css.map",
+    "static/js/2.f45d9cb4.chunk.js.LICENSE.txt": "/Marlabs-UI-HW14/static/js/2.f45d9cb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f53f41.js",
+    "static/js/2.f45d9cb4.chunk.js",
+    "static/css/main.5cc69460.chunk.css",
+    "static/js/main.f6378ea9.chunk.js"
+  ]
+}
